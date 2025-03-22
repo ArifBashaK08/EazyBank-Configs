@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans prod Rest API"
+  contactDetails:
+    name: "Brian Barry - Product Owner"
+    email: "brian.barry@eazybank.com"
+  onCallSupport:
+    - (123) 588-7896
+    - (123) 588-7895

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts Dev Rest API"
+  contactDetails:
+    name: "John Doe - Dev Lead"
+    email: "john.doe@eazybank.com"
+  onCallSupport:
+    - (123) 885-4565
+    - (123) 789-4565
