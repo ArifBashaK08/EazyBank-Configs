@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans Dev Rest API"
   contactDetails:
     name: "John Doe - Dev Lead"
-    email: "john.doe@eazybank.com"
+    email: "{cipher}85860990be8d8876331a28cae1ea5f85f65ff2483ed48c9c9581019ff69fda32b3350887f834202257e5bf57a1d3d36c"
   onCallSupport:
     - (123) 885-4565
     - (123) 789-4565

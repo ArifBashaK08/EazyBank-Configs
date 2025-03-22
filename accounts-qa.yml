@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts QA Rest API"
   contactDetails:
     name: "Sarah Jackson - QA Lead"
-    email: "sarah.jackson@eazybank.com"
+    email: "{cipher}367ddcb810154ad4622825056760328cf1976bf48199eba75ce2076e662734f52e9079af3cfcbb90bedfa998d8d7a458"
   onCallSupport:
     - (123) 456-5885
     - (123) 4565-7895
