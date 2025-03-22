@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans prod Rest API"
+  message: "Welcome to EazyBank loans production Rest API"
   contactDetails:
     name: "Brian Barry - Product Owner"
     email: "{cipher}daefd064eba3f29697f98880bd90167c96ffac5bc8bf05fb47a864e0721c27c880b5054509f95c317b9ee8ef5e34ef33"
