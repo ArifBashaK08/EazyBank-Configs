@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans QA Rest API"
+  message: "Welcome to EazyBank loans DOCKER WEBHOOK QA Rest API"
   contactDetails:
     name: "Sarah Jackson - QA Lead"
     email: "{cipher}367ddcb810154ad4622825056760328cf1976bf48199eba75ce2076e662734f52e9079af3cfcbb90bedfa998d8d7a458"
